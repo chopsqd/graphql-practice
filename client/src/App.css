@@ -39,6 +39,10 @@ button {
     margin: 5px 10px;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 form {
     display: flex;
     flex-direction: column;
